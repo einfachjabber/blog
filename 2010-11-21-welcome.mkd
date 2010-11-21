@@ -4,7 +4,7 @@ title: Willkommen
 author: Ben (bz@einfachjabber.de)
 ---
 
-Willkommen auf blog.einfachjabber.de.
+## Willkommen auf blog.einfachjabber.de.
 
 Hier werden sich in den nächsten Tagen Inhalte rund um einfachjabber.de, den
 einfachjabber.de Jabber-Server und Jabber/XMPP generell einfinden. Zusätzlich
