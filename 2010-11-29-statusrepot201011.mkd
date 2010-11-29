@@ -1,0 +1,42 @@
+---
+layout: post
+title: Jabber server status and yesterdays "maintenance"
+author: Ben
+email: bz@einfachjabber.de
+jabber: bz@einfachjabber.de
+---
+
+## Kleine Wartung gestern
+
+Gestern zwischen 20 und 22 Uhr gab es ein paar Neustarts des Servers. Diese
+führten zum einen zu einem jetzt funktionierenden IRC-Transport, sowie zu
+einer Erweiterung, die den Admins die Arbeit etwas erleichtert.
+
+## Zum Status des Servers
+
+Der Jabber-Server ist soweit bereit. Diese Woche werden noch ein paar Tests
+gemacht und eventuell Features (zB den Facebook-Transport)
+aktiviert/deaktiviert und vor allem die SSL-Zertifikate geradegezogen, so dass
+wir am Wochenende eine (breitere) Öffentlichkeit auf den Server loslassen
+können.
+
+Das betrifft zB auch den einfachjabber-MUC, der dann von
+einfachjabber.de@conference.jabber.ccc.de nach
+chat@conference.einfachjabber.de zieht.
+
+## Small maintenance yesterday
+
+Yesterday between 8 and 10pm we had a couple of restarts on the jabber server
+to enable the IRC-transport and activate some tools to make the admins life a
+little easier.
+
+## Status of the jabber-server
+
+The server is mostly ready. During this week we'll make some tests and
+activate/deactivate some features (depending on the tests). After we put the
+SSL-certificates in a row, we'll be ready to let a more broad audience enter
+the server.
+
+This will also lead to a move of the einfachjabber-MUC from'
+einfachjabber.de@conference.jabber.ccc.de to
+chat@conference.einfachjabber.de.
