@@ -2,8 +2,8 @@
 layout: post
 title: Willkommen
 author: Ben
-email: bz@einfachjabber.de
-jabber: bz@einfachjabber.de
+email: ben@einfachjabber.de
+jabber: ben@einfachjabber.de
 ---
 
 ## Willkommen auf blog.einfachjabber.de.

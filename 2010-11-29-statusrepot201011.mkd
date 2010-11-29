@@ -2,8 +2,8 @@
 layout: post
 title: Jabber server status and yesterdays "maintenance"
 author: Ben
-email: bz@einfachjabber.de
-jabber: bz@einfachjabber.de
+email: ben@einfachjabber.de
+jabber: ben@einfachjabber.de
 ---
 
 ## Kleine Wartung gestern
