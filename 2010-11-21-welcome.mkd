@@ -4,7 +4,6 @@ title: Willkommen
 author: Ben
 email: bz@einfachjabber.de
 jabber: bz@einfachjabber.de
-tags: jabber, xmpp
 ---
 
 ## Willkommen auf blog.einfachjabber.de.
