@@ -1,0 +1,16 @@
+---
+layout: post
+title: Facebook Transport
+author: Ben
+email: ben@einfachjabber.de
+jabber: ben@einfachjabber.de
+---
+
+## Facebook Transport aktiviert
+
+Seit gestern Abend ist der Facebook Transport aktiviert und kann benutzt
+werden.
+
+Zu beachten ist, dass als Benutzername nicht wie üblich bei Facebook die
+E-Mail-Adresse gilt sondern der Facebook-Benutzername. Dieser muss in den
+Konto-Einstellungen bei Facebook festgelegt werden.
