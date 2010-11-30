@@ -1,0 +1,11 @@
+---
+layout: post
+title: Der JMStV
+author: Ben
+email: ben@einfachjabber.de
+jabber: ben@einfachjabber.de
+---
+
+Da uns das ganze auch angeht:
+
+[Lesepflicht für alle: 17 Fragen zum neuen JMStV](http://t3n.de/news/neuer-jmstv-286977/ "Lesepflicht für alle: 17 Fragen zum neuen JMStV - t3n.de")
