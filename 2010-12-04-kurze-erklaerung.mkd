@@ -1,0 +1,29 @@
+---
+layout: post
+title: Kurze Erklärung zur Downtime heute
+author: Ben
+email: ben@einfachjabber.de
+jabber: ben@einfachjabber.de
+---
+
+Nur kurz für die Interessierten:
+
+Während der heutigen (doch recht ausgiebigen) Downtime, wurden die Images der
+virtuellen Maschinen auf
+[LVM][lvm]
+-Volumes transferriert. Hauptgrund dafür war, das Anlegen von Backups zu
+vereinfachen. Durch LVM-Snapshots können die kompletten Maschinen gesichert
+werden, ohne das diese dafür heruntergefahren werden müssen.
+
+Auf dem Jabber-Server wurden zudem noch die Zertifikate für unsere beiden
+Domains einfachjabber.de und freies-im.de erneuert bzw. installiert.
+Beide Zertifikate sind übrigens durch [CAcert][cacert] ausgestellt.
+
+Gleichzeitig beginnt damit auch der Produktivbetrieb des Jabber-Servers, der
+sich bisher als äußerst stabil präsentiert hat.
+Näheres zum Setup gibt es dann zu gegebener Zeit in einem separaten Post.
+
+Bis dahin, viel Spaß mit und auf einfachjabber.de
+
+[lvm]: http://de.wikipedia.org/wiki/Logical_Volume_Manager "LVM - de.wikipedia.org"
+[cacert]: http://cacert.org "CAcert"
