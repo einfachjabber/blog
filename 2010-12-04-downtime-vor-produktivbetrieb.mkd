@@ -1,0 +1,17 @@
+---
+layout: post
+title: Downtime vorm Produktivbetrieb
+author: Ben
+email: ben@einfachjabber.de
+jabber: ben@einfachjabber.de
+---
+
+Bevor der Jabber-Server in den Produktivbetrieb geht, wird es heute nochmal
+eine längere Downtime geben um noch einige Veränderungen und Optimierungen
+am Wirts- und den Gastsystemen vornehmen zu können.
+
+Die Downtimes am heutigen Tag können durchaus auch mal mehrere Stunden
+betragen, also bitte nicht wundern wenn Seite oder Jabber-Server mal
+längere Zeit nicht verfügbar sein sollten.
+
+Über den Abschluss der Arbeiten gibts dann wieder hier zu lesen.
