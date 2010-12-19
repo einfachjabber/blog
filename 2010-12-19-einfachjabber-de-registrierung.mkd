@@ -1,0 +1,11 @@
+---
+layout: post
+title: Registrierung über einfachjabber.de/reg freigeschaltet
+author: Ben
+email: ben@einfachjabber.de
+jabber: ben@einfachjabber.de
+---
+
+Accounts für einfachjabber.de und freies-im.de können ab sofort auch über unseren [Registrierungs-Assistenten][reg] erstellt werden.
+
+[reg]: http://einfachjabber.de/reg "Registrierung - einfachjabber.de"
