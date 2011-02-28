@@ -1,0 +1,27 @@
+---
+layout: post
+title: einfachJabber Treffen
+author: Ben
+email: ben@einfachjabber.de
+jabber: ben@einfachjabber.de
+---
+
+Am 1.4. wird einfachJabber.de ein Jahr alt. Zeit zurück, aber auch mal nach vorne zu blicken. Angeregt wurde dazu ein Treffen der bisher Beteiligten und derer die sich gerne in Zukunft beteiligen möchten.
+
+MUC-Treffen
+-----------
+
+Anbieten würde sich dazu ein Treffen in unserem MUC [chat@conference.einfachjabber.de][muc]. Da die Terminfindung immer die größte Hürde darstellt wird es bei Doodle eine [Abstimmung über das Datum][doodle] geben. Falls noch weitere Terminvorschläge gemacht werden, würde ich die dort hinzufügen.
+
+Chemnitzer Linux-Tage
+---------------------
+
+Zusätzlich besteht anläßlich der [Chemnitzer Linux-Tage][clt] die Möglichkeit sich auch mal im wahren Leben kennen zu lernen. Diese finden am 19. und 20. März an der TU-Chemnitz statt. Ich gehe erstmal nicht davon aus, dass es dort ein "offizielles" Zusammenfinden geben wird (würde ich von der Anzahl der Interessenten abhängig machen), aber ich denke gegen ein wenig Austausch in kleiner Runde wäre auch nichts einzuwenden.
+
+Über Anregungen für Gesprächsthemen und ähnliches in den Kommentaren würde ich mich sehr freuen. Ebenso natürlich über zahlreiches Erscheinen im MUC und dann eventuell auch in Chemnitz.
+
+Bis dahin!
+
+[muc]: xmpp:chat@conference.einfachjabber.de "einfachJabber.de MUC"
+[doodle]: http://doodle.com/z2w6wswepg6rtvkb "Doodle"
+[clt]: http://chemnitzer.linux-tage.de/2011/info/ "Chemnitzer Linux Tage"
