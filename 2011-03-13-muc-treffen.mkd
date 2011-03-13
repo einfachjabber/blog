@@ -1,0 +1,36 @@
+---
+layout: post
+title: einfachJabber.de Treffen am 15.03.2011
+author: Ben
+email: ben@einfachjabber.de
+jabber: ben@einfachjabber.de
+---
+
+Die kleine Doodle-Umfrage zu unserem MUC-Treffen lief leider nicht ganz
+so reibungslos wie erhofft, da zu keinem Zeitpunkt alle
+Teilnahmewilligen gleichtzeitig Zeit hatten.
+
+Um das ganze aber nicht noch weiter hinauszuzögern würde ich das Treffen
+gerne am kommenden Dienstag (15.03.2011) stattfinden lassen, da dies
+einer der beiden Termine ist, an denen nur zwei von acht angemeldeten
+keine Zeit haben.
+
+Es tut mir natürlich Leid, dass nicht alle teilnehmen können, aber das
+Log des Treffens wird in jedem Fall am Tag danach öffentlich gemacht.
+Zusätzlich dürfen, diejenigen, die nicht am Treffen teilnehmen können
+natürlich gerne im Vorfeld Fragen, Anregungen oder Kritik bei mir
+abladen.
+
+Erreichen kann man mich direkt unter ben@einfachjabber.de (per [Mail][mail]
+oder [Jabber][jabber]), bzw. bin ich auch häufig im [MUC][muc]
+anzutreffen.
+
+Also, Termin für das einfachJabber-MUC-Treffen ist am Dienstag den
+15.03.2011 ab 20:00 unter [chat@conference.einfachjabber.de][muc].
+
+Bis dahin, und nochmal sorry an die, die am Dienstag leider keine Zeit
+haben!
+
+[mail]: mailto:ben@einfachjabber.de "Mail an ben@einfachjabber.de"
+[jabber]: xmpp:ben@einfachjabber.de "Jabber Nachricht an ben@einfachjabber.de"
+[muc]: xmpp:chat@conference.einfachjabber.de "einfachJabber.de MUC"
