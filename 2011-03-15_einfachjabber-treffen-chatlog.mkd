@@ -1,0 +1,15 @@
+---
+layout: post
+title: einfachJabber.de Treffen Chatlog
+author: Ben
+email: ben@einfachjabber.de
+jabber: ben@einfachjabber.de
+---
+
+Bevor ichs morgen vergesse hier mal direkt das [Chatlog vom heutigen
+Treffen][chatlog].
+
+Danke nochmal an alle Anwesenden fürs kommen und nette und produktive
+zwei Stunden.
+
+[chatlog]:http://db.tt/CPCC4y9
