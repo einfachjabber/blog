@@ -1,0 +1,54 @@
+---
+layout: post
+title: einfachJabber.de von hinter der Firewall erreichen
+author: Ben
+email: ben@einfachjabber.de
+jabber: ben@einfachjabber.de
+---
+
+English version below!
+
+Da es manche Organisationen, Firmen oder auch Unis teilweise nicht
+erlauben aus ihrem Netzwerk Dienste auf anderen Ports als 80 (http) und 443 (https) zu benutzen.
+Für die, die diesen Beschränkungen unterliegen, aber auch gerne von der
+Arbeit aus Jabbern möchten (Jabber benutzt Port 5222), gibt es jetzt gute Nachrichten.
+
+Ab morgen ist es möglich den einfachJabber-Jabberserver auch über Port
+**80** bzw. **443** zu benutzen.
+
+Dazu müssen im Jabber-Client die Server-Einstellungen wie
+folgt gesetzt/geändert werden:
+
+    Server:  im.einfachjabber.de
+      Port:  80 (oder 443)
+
+Das wars schon :)
+
+Auf beiden Ports sind sowohl SSL als auch nicht-SSL
+verschlüsselte Verbindungen möglich.
+
+Nochmal sei erwähnt, dass das ganze erst ab morgen für alle
+funktionieren wird, da die DNS-Einträge für im.einfachjabber.de noch
+nicht überall verfügbar sind.
+
+## Connect to the einfachjabber.de Jabber-Server from behind a firewall
+
+Some environments like company networks and the like, only allow
+to connect to services running on ports 80 (http) and 443 (https).
+For those who would like to connect to our jabber-service from those
+kinds of environments (jabber works on port 5222), we have some good
+news today.
+
+As from tomorrow you can connect to the einfachjabber-jabberserver using
+port **80** or **443**. You only have to set up your jabber-client
+accordingly:
+
+    Server:  im.einfachjabber.de
+      Port:  80 (oder 443)
+
+And thats it :)
+
+Usage of SSL-encryption is possible on both ports.
+
+To mention it again, this service will available from tomorrow, as the
+DNS-records need some time to propagate.
