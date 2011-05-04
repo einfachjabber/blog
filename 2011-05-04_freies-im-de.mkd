@@ -1,0 +1,54 @@
+---
+layout: post
+title: freies-im.de geht zurück an den Besitzer
+author: Ben
+email: ben@einfachjabber.de
+jabber: ben@einfachjabber.de
+---
+
+English version below!
+
+Die Domain freies-im.de wurde uns im letzten Jahr freundlicher Weise von
+[Daniel Vigano](http://www.daniel-vigano.de) zur Verfügung gestellt um,
+unseren Nutzern zumindest eine kleine Auswahl an Domain-Namen zur
+Verfügung zu stellen.
+Gestern trat Daniel an mich mit dem Anliegen heran, unter der Domain
+wieder selbst einen Jabber-Server zu betreiben. Da wir den Nutzern gerne
+ersparen möchten, dass sie sich einen neuen Account registrieren müssen,
+würden wir die Adressen gerne auf Daniels Server migrieren.
+
+Allerdings würde ich das nur sehr ungerne ohne euer Einverständnis tun,
+und würde euch daher bitten bis zum 13.05.2011 12:00 (UTC) eure Jabber-ID,
+also eure Adresse (dein-name@freies-im.de) in das unten verlinkte
+Formular einzutragen, wenn ihr damit einverstanden seid, dass Daniel ab
+sofort euer "Dienstleister" ist.
+
+Infos zu seinem Dienst findet ihr unter [prosody.de](http://prosody.de).
+
+Der Umzug würde dann am Wochenende des 14./15. Mai stattfinden, und für
+euch keinerlei Arbeit bedeuten, da das Umstellen transparent, also ohne
+größere Ausfälle ablaufen sollte.
+
+[Link zum Formular](https://spreadsheets.google.com/spreadsheet/viewform?formkey=dE5YRGl2WDNFYjNrRXJadHVsWE5UR1E6MQ)
+
+## freies-im.de changes back to its owner
+
+Last year [Daniel Vigano](http://www.daniel-vigano.de) provided us with
+the domain freies-im.de to give our users some choice for their Jabber ID.
+
+Yesterday Daniel came to me and told me that he wants to provide his own
+jabber-server behind the domain, as he did before he lent it to us. We'd
+like to migrate the accounts registered with freies-im.de to Daniels server
+so you don't have to register a new account.
+
+But as we don't want to migrate your accounts without your permission,
+we'd like you to fill out the little form behind the link below until
+13.05.2011 12:00 (UTC), if you agree with beeing migrated to Daniels server,
+and with him being your new service-provider.
+
+You can find some information about him and his service under [prosody.de](http://prosody.de).
+
+The migration will take place on the 14. and 15. of may, and shouldn't
+cause any downtime.
+
+[Link to the form](https://spreadsheets.google.com/spreadsheet/viewform?formkey=dE5YRGl2WDNFYjNrRXJadHVsWE5UR1E6MQ)
