@@ -25,6 +25,12 @@ sofort euer "Dienstleister" ist.
 
 Infos zu seinem Dienst findet ihr unter [prosody.de](http://prosody.de).
 
+Alternativ kann euer Account auch auf einfachjabber.de umgestellt
+werden, dadurch würde sich aber auch die Adresse ändern
+(zu "dein-name@einfachjabber.de").
+In diesem Fall bitte [support@einfachjabber.de](xmpp:support@einfachjabber.de)
+per Jabber kontaktieren, dort wird euch geholfen.
+
 Der Umzug würde dann am Wochenende des 14./15. Mai stattfinden, und für
 euch keinerlei Arbeit bedeuten, da das Umstellen transparent, also ohne
 größere Ausfälle ablaufen sollte.
@@ -47,6 +53,11 @@ we'd like you to fill out the little form behind the link below until
 and with him being your new service-provider.
 
 You can find some information about him and his service under [prosody.de](http://prosody.de).
+
+As an alternative we can also migrate your account to einfachjabber.de.
+In this case your address would have to be changed (to "your-name@einfachjabber.de").
+Please contact [support@einfachjabber.de](xmpp:support@einfachjabber.de)
+by jabber if you would like to take this option.
 
 The migration will take place on the 14. and 15. of may, and shouldn't
 cause any downtime.
