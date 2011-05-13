@@ -1,0 +1,35 @@
+---
+layout: post
+title: DuckDuckGo öffnet neuen XMPP-Service
+author: Ben
+email: ben@einfachjabber.de
+jabber: ben@einfachjabber.de
+---
+
+Mit der Suchmaschine [DuckDuckGo](http://duckduckgo.com) dürfen wir
+einen weiteren XMPP/Jabber-Server-Betreiber im Netz begrüßen. Hier [die
+offizielle Mitteilung](https://duck.co/#Topic/28469000000637077) zur "feierlichen Eröffnung".
+
+Als Domain-Endung steht "dukgo.com" zur Verfügung. Der Server läuft, wie
+auch unser einfachjabber.de-Server mit der Software
+[prosody](http://prosody.im).
+
+Ein zusätzliches Schmankerl, dass natürlich auch Nutzer anderer
+Jabber-Server nutzen dürfen ist ein bereitgestellter Bot, mit dem die
+Suchmaschine über Jabber genutzt werden kann.
+Dazu einfach [im@ddg.gg](xmpp:im@ddg.gg) als Kontakt hinzufügen und
+ausprobieren.
+
+## DuckDuckGo opens new XMPP-service
+
+The search-engine [DuckDuckGo](http://duckduckgo.com) announced today,
+that they join the xmpp-server crowd and offer a public server for
+everyone to use. Here is the [official announcement](https://duck.co/#Topic/28469000000637077).
+
+"dukgo.com" is the domain that will be part of the username (JID). The
+server itself uses [prosody](http://prosody.im) as software, just like
+einfachjabber.de does.
+
+Another nice feature is the DuckDuckGo xmpp-bot, which can be used just
+like the search-engine itself. Just add [im@ddg.gg](xmpp:im@ddg.gg) as a
+contact, post any search-query to it and expect the answer soon :)
