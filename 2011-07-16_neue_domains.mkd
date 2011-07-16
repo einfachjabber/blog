@@ -1,0 +1,27 @@
+---
+layout: post
+title: Neue Domains verfügbar
+author: Ben
+email: ben@einfachjabber.de
+jabber: ben@einfachjabber.de
+---
+
+Etwas untergegangen ist das wir seit einiger Zeit zwei neue Domains im
+Programm haben. Namentlich wären das "tekst.me" und "labnote.org".
+
+Auf beiden Domains laufen alle auch unter "einfachjabber.de" verfügbaren
+Dienste, ausser dem Facebook-Transport, der aber noch kommen wird.
+
+Etwas Statistik noch zum Schluss: 280 Benutzer besitzen Stand
+heute einen Jabber-Account "@einfachjabber.de".
+
+## New Domains available
+
+For some time we have two, as of now rather unannounced, new domains for
+our jabber-service: "tekst.me" and "labnote.org".
+
+Both domains have the same featureset as "einfachjabber.de", but without
+the facebook-transport, which will follow in the near future.
+
+Some numbers in the end: As of today 280 people are using a
+jabber-address "@einfachjabber.de".
