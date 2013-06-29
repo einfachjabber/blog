@@ -1,0 +1,13 @@
+---
+layout: post
+title: Tutorial updates
+author: Ben
+email: ben@einfachjabber.de
+jabber: ben@einfachjabber.de
+---
+
+Zur Zeit werden einige Tutorials aktualisiert, aber auch einige wenig bis gar nicht gefragte entfernt. Ziel ist es auf lange Sicht die Aktualität der Tutorials zu gewährleisten und das ist bei der vorherigen Anzahl an Tutorials nur begrenzt möglich. Daher die Bereinigung.
+
+Unter anderem wurden auch die Web-Client Tutorials entfernt. Diese werden auch, falls nicht ein großer Aufschrei erfolgt, so bald nicht wiederkommen. Gründe dafür sind einerseits der Wegfall der Dienste, für die die beiden vorhandenen Tutorials waren beide eingestellt wurden (bzw. bald werden), andererseits das Fehlen von wirklich guten Alternativen in diesem Sektor. Die Beschreibung einer Installation eines freien WebChat Clients auf dem eigenen Server, würde hier den Rahmen sprengen. Wie gesagt, diese Entscheidung ist nicht fix, und ich lasse mich da gerne beraten.
+
+Zu guter Letzt, würde ich bitten, falls euch Unstimmigkeiten auffallen, mir diese per Mail oder Jabber zu melden. Adressen findet ihr in der linken Seitenleiste. Danke!
