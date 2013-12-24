@@ -1,0 +1,15 @@
+---
+layout: post
+title: Server move
+author: Ben
+email: ben@einfachjabber.de
+jabber: ben@einfachjabber.de
+---
+
+Der Jabber/XMPP Server wurde heute auf einen neuen Host umgezogen. Es kann daher eventuell noch zu Unterbrechungen kommen, die sich aber im Laufe des Tages von selbst erledigen sollten. Sollten darüber hinaus Probleme auftreten, bitte per Mail melden. Danke!
+
+Nebeneffekt des Umzugs ist, dass wir jetzt auch per IPv6 erreichbar sind!
+
+We moved the Jabber/XMPP server to a new host today. Because of this there can be connection problems throughout the day. Should you encounter any problems after that please report them via mail. Thanks!
+
+A side effect of the move is that we are now available via IPv6!
